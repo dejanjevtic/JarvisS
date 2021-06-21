@@ -10,7 +10,7 @@ package jarviss;
  * @author admin
  */
 public class JarvisS {
-
+    publiv functioin ()}
     /**
      * @param args the command line arguments
      */
